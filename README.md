@@ -1,5 +1,6 @@
 # Weather Dashboard
 Web Design Exercise - Web Visualization Dashboard (Latitude)
+<br>
 <i>(Web-Design-Challenge)</i>
 
 <b>View Dashboard:</b> https://ddemoe7.github.io/Web-Design-Challenge/
